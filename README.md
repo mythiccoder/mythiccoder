@@ -21,6 +21,8 @@
 
 <p align="left"> <a href="https://twitter.com/mythiccoder" target="blank"><img src="https://img.shields.io/twitter/follow/mythiccoder?logo=twitter&style=for-the-badge" alt="mythiccoder" /></a> </p>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mythiccoder" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mythiccoder?trk=profile-badge">Divyanshu Mishra</a></div>
+              
 ## 🎓 About me
 • I’m currently pursuing my Bachelors in Computer Science & Engineering <br />
 • Aspiring Full-stack-DEV.
