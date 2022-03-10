@@ -21,7 +21,6 @@
 
 <p align="left"> <a href="https://twitter.com/mythiccoder" target="blank"><img src="https://img.shields.io/twitter/follow/mythiccoder?logo=twitter&style=for-the-badge" alt="mythiccoder" /></a> </p>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
               
 ## 🎓 About me
 • I’m currently pursuing my Bachelors in Computer Science & Engineering <br />
